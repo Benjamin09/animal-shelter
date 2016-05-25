@@ -1,17 +1,27 @@
 img {
-    width: 360px;
+    width: 75%;
     border: solid;
 }
 
 .column {
-    width: 480px;
+    width: 33%;
     float: left;
 }
 .column p {
-    width: 360px;
+    width: 80%;
     font-style: italic;
 }
 
 .column h3 {
     font-family: Impact;
+}
+
+h1, h2  {
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+span.fee {
+    font-size: 15px;
 }
