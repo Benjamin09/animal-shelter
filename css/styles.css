@@ -7,3 +7,11 @@ img {
     width: 480px;
     float: left;
 }
+.column p {
+    width: 360px;
+    font-style: italic;
+}
+
+.column h3 {
+    font-family: Impact;
+}
